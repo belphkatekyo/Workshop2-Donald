@@ -21,7 +21,7 @@
 		</div>
 		<!--Menu Item and Search Bar-->
 		<div class = "menuItem">
-			<a style="float:left"; class = "linker" href="php/About.php" id = "about">About</a>
+			<a style="float:left"; class = "linker" href="php/about.php" id = "about">About</a>
 			<a style="float:left"; class = "linker" href="php/cabling.php" id = "profile">Cabling Types</a>
 			<a style="float:left"; class = "linker" href="php/fiber.php" id = "contact" href="">Fiber Optics Connectors</a>
 			<a style="float:left"; class = "linker" href="php/packet.php" id = "signup" href="">Packet Tracer</a>
